@@ -1,6 +1,8 @@
 // client
 import 'car.dart';
 
+/// Class pour gerer le client
+/// @param name: le nom du client
 class Client {
   String name;
   String phoneNumer;

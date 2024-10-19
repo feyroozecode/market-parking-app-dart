@@ -1,4 +1,5 @@
 class Park {
+  /// capacite m2 que supporte le parking
   int parkCapacity;
   int placeNumber;
 
