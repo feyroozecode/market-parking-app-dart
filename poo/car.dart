@@ -1,6 +1,6 @@
 class Car {
   String imatNumber;
-  String color;
+  String color; 
   int nbrRoue;
 
   Car(
